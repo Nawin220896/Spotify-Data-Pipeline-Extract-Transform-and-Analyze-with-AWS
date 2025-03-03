@@ -49,7 +49,7 @@ This scalable and automated pipeline **simplifies data processing** and **enable
 ---
 
 ## 📌 Architecture Diagram  
-![Spotify Data Pipeline](Project Archicture.png)
+![Spotify Data Pipeline](ProjectArchicture.png)
 
 ---
 
